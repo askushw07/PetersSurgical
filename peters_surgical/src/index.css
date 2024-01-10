@@ -1,0 +1,25 @@
+body {
+  margin: 0;
+  padding: 0;
+  width: 1440px;
+  height: 1200px;
+}
+
+table{
+  font-size: larger;
+  border: 2px solid #909090;
+  padding: 20px;
+  width: 500px;
+  height: 200px !important;
+  max-height: 300px !important;
+}
+
+th,td{
+  justify-content: center;
+  text-align: center;
+  padding: 12px;
+  
+  border: 2px solid #909090;
+  border-collapse: collapse;
+  margin: 0;
+}

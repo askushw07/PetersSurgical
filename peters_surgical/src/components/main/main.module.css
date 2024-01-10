@@ -1,0 +1,15 @@
+.piechart {
+  width: 459px;
+  height: 471px;
+  flex-shrink: 0;
+  border-radius: 12px;
+  border: 1px solid #ebebeb;
+
+  background: #fff;
+}
+.piecontainer{
+    display: flex;
+    margin: 30px;
+    gap: 50px;
+    height: 471px;
+}
